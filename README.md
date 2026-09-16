@@ -158,3 +158,5 @@ The workflows included are:
 - `lint.yml` - Runs ESLint to find linting issues, ensuring that your code is always in compliance with your ESLint rules, which can improve code quality and consistency.
 
 Additionally, a `dependabot.yml` configuration is included and run automatically on a weekly basis. It detects outdated npm packages and creates pull requests to update them, ensuring that your npm packages are always up to date, which can improve security and prevent bugs caused by outdated packages.
+
+Fork Criado para trabalho de Topicos em Desenvolvimento de Sistemas
